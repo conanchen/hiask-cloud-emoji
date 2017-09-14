@@ -5,4 +5,4 @@ Emoji 数据访问服务
 
 Follow https://www.javacodegeeks.com/2017/07/apache-ignite-spring-data.html 
 
-to integrate Spring Boot. git remote add origin https://github.com/conanchen/hiask-cloud-emoji.git
+to integrate Spring Boot. 
